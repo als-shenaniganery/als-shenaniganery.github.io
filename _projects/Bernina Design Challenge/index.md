@@ -7,14 +7,5 @@ skills:
 - BERNINA machines and software (Bianco)
 - Blender
 - AR (Reality Composer)
-main-image: /bernina_hero.jpg
+main-image: 
 ---
-
-{% include image-gallery.html images="SceneV2.png",  height="400" %}
-Another render of our product
-
-{% include image-gallery.html images="berninagang.jpg",  height="400" %}
-Our team! (Daniel, Si Min, Sahana, Raina and I)
-
-{% include image-gallery.html images="berninaeveryone.jpg",  height="400" %}
-All the participants at the design challenge!
