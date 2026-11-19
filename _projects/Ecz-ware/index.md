@@ -5,6 +5,6 @@ description: Developed a wearable with a group of 7 to manage scratching behavio
 
 
 skills: 
-- Blender
+
 main-image: 
 ---
