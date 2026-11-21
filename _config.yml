@@ -64,8 +64,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/moedkqww
-
+formspree-key: moedkqww
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
