@@ -9,4 +9,6 @@ skills:
 main-image: /leg_rig_sketch.jpg
 ---
 
+Mold created for muscle casting!
+
 {% include image-gallery.html images="mold_v1.png" height="400" %}

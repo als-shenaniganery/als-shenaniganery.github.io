@@ -12,10 +12,13 @@ skills:
 main-image: /v1.png
 ---
 ### Engineering drawings of sections of the maze (V1)
-{% include image-gallery.html images="top_half_v1_dwg.png, bottom_half_v1_dwg.png, top_decor_v1_dwg.png, bottom_decor_v1_dwg.png"  height="400" %}
+
+{% include image-gallery.html images="top_half_v1_dwg.png, bottom_half_v1_dwg.png, top_decor_v1_dwg.png, bottom_decor_v1_dwg.png" height="400" %}
 
 3D printed prototype of maze (V1)
-{% include image-gallery.html images="dfm_v1.jpg"  height="400" %}
+
+{% include image-gallery.html images="dfm_v1.jpg" height="400" %}
 
 An early maze concept (since reworked)
-{% include image-gallery.html images="early_dfm.jpg"  height="400" %}
+
+{% include image-gallery.html images="early_dfm.jpg" height="400" %}

@@ -9,4 +9,4 @@ skills:
 main-image: /crispy hand money shot 2.png
 ---
 
-{% include image-gallery.html images="crispy hand money shot no cover.png, crispy hand v2.png, dissected prototype.jpg"  height="400" %}
+{% include image-gallery.html images="crispy hand money shot no cover.png, crispy hand v2.png, dissected prototype.jpg" height="400" %}

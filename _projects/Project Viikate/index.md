@@ -11,7 +11,8 @@ skills:
 main-image: /viikategang1.jpg
 ---
 
-{% include image-gallery.html images="flightcomp.JPG, launch.JPG, viikategang.JPG"  height="400" %}
+{% include image-gallery.html images="flightcomp.JPG, launch.JPG, viikategang.JPG" height="400" %}
 
-{% include image-gallery.html images="riparyan.JPG"  height="400" %}
+{% include image-gallery.html images="riparyan.JPG" height="400" %}
+
 Unfortunately, my friend Aryan, who had joined me on exchange and worked on the project alongside me, had to return home before the flight day. I decided to bring a drawing of him nevertheless.
